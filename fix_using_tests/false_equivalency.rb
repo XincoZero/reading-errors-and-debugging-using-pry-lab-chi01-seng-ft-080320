@@ -13,8 +13,10 @@ end
 def selection(num)
   if num = 1 do  
    puts "YUM YUM MUNCH MUNCH MUNCH"
+ end 
   elsif num = 2 
   puts  "HAM HAM HAM IN MY TUMMY"
+end 
   end
 end
 
