@@ -11,7 +11,7 @@ def prompt_user
 end
 
 def selection(num)
-  if num = 1 
+  if num = 1 do 
    puts "YUM YUM MUNCH MUNCH MUNCH"
  end 
  end 
